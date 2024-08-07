@@ -30,7 +30,7 @@ A user-friendly and secure voting system built with Spring Boot. Ideal for small
 
 1. **Clone the repo:**
   
-    git clone https://github.com/Umeshpatil1932/voting-system.git
+    git clone https://github.com/Umeshpatil1932/Voting_System.git
   
 
 2. **Go to project directory:**
